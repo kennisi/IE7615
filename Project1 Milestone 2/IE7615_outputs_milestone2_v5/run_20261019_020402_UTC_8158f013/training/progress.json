@@ -1,0 +1,10 @@
+{
+  "epoch": 29,
+  "max_epochs": 100,
+  "P": 0.89639,
+  "R": 0.85338,
+  "mAP50": 0.88589,
+  "mAP50_95": 0.6383,
+  "best_checkpoint": "/content/drive/MyDrive/IE7615_outputs_milestone2_v5/run_20261019_020402_UTC_8158f013/checkpoints/best.pt",
+  "last_checkpoint": "/content/drive/MyDrive/IE7615_outputs_milestone2_v5/run_20261019_020402_UTC_8158f013/checkpoints/last.pt"
+}
